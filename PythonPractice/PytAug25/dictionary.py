@@ -5,6 +5,6 @@ Tao = {"name": "Tianyu Tao", "age": 27, "hobbies": ["games","aikido"], "wakeup t
 
 print(str(Tao["name"])+"is "+ str(Tao["age"]) + " old"+ "he likes")
 
-print(f'{Tao["name"]} likes {Tao["hobbies"][0]}')
+print(f'{Tao["name"]} likes {Tao["hobbies"][0]} and mm')
 
 print(f'{Tao["name"]} woke up {wakeup_time["Mon"]} Mon')
