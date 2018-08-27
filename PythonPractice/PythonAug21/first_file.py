@@ -1,0 +1,1 @@
+print("fuck the world!")
